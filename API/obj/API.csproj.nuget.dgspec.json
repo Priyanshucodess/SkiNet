@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SkiNet\\API\\API.csproj": {}
+    "d:\\SkiNet\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\SkiNet\\API\\API.csproj": {
+    "d:\\SkiNet\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SkiNet\\API\\API.csproj",
+        "projectUniqueName": "d:\\SkiNet\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\SkiNet\\API\\API.csproj",
+        "projectPath": "d:\\SkiNet\\API\\API.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\SkiNet\\API\\obj\\",
+        "outputPath": "d:\\SkiNet\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,6 +65,10 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
             }
           },
           "imports": [
